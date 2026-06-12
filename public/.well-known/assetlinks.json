@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "at.persie0.nomadrank",
+      "sha256_cert_fingerprints": [
+        "52:F1:3A:E7:1E:D2:2E:E8:D4:E3:F3:84:FA:B7:0D:21:78:C6:9B:E4:9E:46:92:DB:19:D2:94:AA:EA:FB:FD:83"
+      ]
+    }
+  }
+]
