@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "at.persie0.nomadrank",
       "sha256_cert_fingerprints": [
-        "52:F1:3A:E7:1E:D2:2E:E8:D4:E3:F3:84:FA:B7:0D:21:78:C6:9B:E4:9E:46:92:DB:19:D2:94:AA:EA:FB:FD:83"
+        "52:F1:3A:E7:1E:D2:2E:E8:D4:E3:F3:84:FA:B7:0D:21:78:C6:9B:E4:9E:46:92:DB:19:D2:94:AA:EA:FB:FD:83",
+        "0A:B0:92:3C:75:6D:30:C5:01:CF:1E:AC:EB:33:A4:80:A4:44:D7:14:8C:C6:F1:68:C5:2E:37:0E:9C:7F:8D:90"
       ]
     }
   }
