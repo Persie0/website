@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "U2MXSHB2U3.at.persie0.nomadrank",
+        "paths": [
+          "/__/auth/action*",
+          "/__/auth/links*",
+          "/email-link-sign-in*"
+        ]
+      }
+    ]
+  }
+}
