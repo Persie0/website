@@ -7,7 +7,8 @@
         "paths": [
           "/__/auth/action*",
           "/__/auth/links*",
-          "/email-link-sign-in*"
+          "/email-link-sign-in*",
+          "/invite/*"
         ]
       }
     ]
